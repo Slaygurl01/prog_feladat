@@ -16,8 +16,8 @@ form{
     font-size: 50px;
     color: blue;
     font-family: 'Times New Roman', Times, serif;
+    
  }
- br{
-    font-weight: lighter;
-    font-size: 40px;
+ .szoveg{
+    font-size: 50px;
  }
