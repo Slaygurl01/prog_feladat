@@ -4,7 +4,7 @@ body{
 }
 
 form{
-    background-color: aquamarine;
+    background-color: rgb(203, 135, 248);
     padding: 20px;
     border-radius: 20px;
     width: 400px;
@@ -17,7 +17,7 @@ form{
     color: blue;
     font-family: 'Times New Roman', Times, serif;
  }
- h3{
+ br{
     font-weight: lighter;
-    font-size: 35px;
+    font-size: 40px;
  }
