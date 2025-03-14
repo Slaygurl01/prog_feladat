@@ -21,5 +21,11 @@ body{
  }
  
  .regisztraci{
-    
+    background-color: rgb(108, 70, 117);
+    padding: 20px;
+    border-radius: 20px;
+    width: 400px;
+    margin-left: 1000px; 
+    margin-top: -110px; 
+    box-shadow: 0 4px 8px;  
  }
